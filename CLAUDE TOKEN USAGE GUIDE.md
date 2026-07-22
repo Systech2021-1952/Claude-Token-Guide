@@ -24,24 +24,13 @@ The context window is the maximum number of tokens Claude can remember and proce
 
 ## Supported Models
 
-## Model Context Window
-
-Claude 3.5 Haiku 200,000 tokens
-
-Claude 3.5 Sonnet
-
-Claude 3 Opus 200,000 tokens
-
-200,000 tokens
-
-
-## CLAUDE TOKEN USAGE GUIDE
-
-200,000 tokens
-
-Claude 4 Sonnet 200,000 tokens
-
-Claude 3.7 Sonnet
+| Model | Context Window |
+|---|---|
+|Claude 3.5 Haiku | 200,000 tokens |
+|Claude 3.5 Sonnet | 200,000 tokens |
+|Claude 3 | Opus 200,000 token |
+| Claude 4 Sonnet | 200,000 tokens |
+| Claude 3.7 Sonnet | 200,000 tokens |
 
 ## What Does 200,000 Tokens Mean?
 
