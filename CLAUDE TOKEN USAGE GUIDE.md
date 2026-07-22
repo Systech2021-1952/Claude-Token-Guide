@@ -8,27 +8,15 @@ words—they are smaller pieces of text.
 
 ## Approximate Conversion
 
-## Content Approximation
+| Content | Approximation |
+-----
+| 1 token | ~4 English characters |
+| 1 token | ~¾ of an English word
+| 100 tokens | ~75 words |
+| 1,000 tokens | ~750 words (approximately 1.5 pages) |
 
-1 token
+Note: Languages such as Tamil, Hindi, Japanese, and Chinese typically consume more tokens per word than English.
 
-1 token
-
-100 tokens ~75 words
-
-1,000 tokens
-
-pages)
-
-Note: Languages such as Tamil, Hindi, Japanese, and Chinese typically consume
-
-more tokens per word than English.
-
-~4 English characters
-
-~¾ of an English word
-
-~750 words (approximately 1.5
 
 ## Claude Context Window
 
