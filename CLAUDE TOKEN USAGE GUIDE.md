@@ -102,12 +102,10 @@ Resize large images before uploading whenever high resolution isn't required.
 
 | Model | Input (Per 1M Tokens) Output (Per 1M Tokens) |   |
 | --- | --- | --- |
-| Claude 3.5 Haiku $0.80 |   | $4.00 |
-| Claude 3.5 | $3.00 | $15.00 |
-| Sonnet |   |   |
+| Claude 3.5 Haiku  | $0.80  | $4.00 |
+| Claude 3.5 Sonnet | $3.00 | $15.00 |
 | Claude 3 Opus | $15.00 | $75.00 |
-| Claude 3.7 | $3.00 | $15.00 |
-| Sonnet |   |   |
+| Claude 3.7 Sonnet | $3.00 | $15.00 |
 
 ## Claude.ai Pro
 
