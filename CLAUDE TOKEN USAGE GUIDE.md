@@ -110,30 +110,21 @@ Resize large images before uploading whenever high resolution isn't required.
 ## Claude.ai Pro
 
 - Flat subscription (~\$20/month)
-
 - No per-token billing within normal usage limits
-
-
-## CLAUDE TOKEN USAGE GUIDE
+----------
 
 ## Token Limits Per Response
 
-## Limit Approximate Value
-
-## Maximum Input Up to context window limit
-
-## Maximum Output ~8,192 tokens (Haiku/Sonnet)
-
-Extended Output Up to ~32K tokens (select
-
-models)
+| Limit | Approximate Value |
+|----- | ----- |
+| Maximum Input | Up to context window limit |
+| Maximum Output | ~8,192 tokens (Haiku/Sonnet) |
+| Extended Output | Up to ~32K tokens (select models) |
 
 If Claude stops mid-response, simply ask:
-
 - Continue
-
 - Keep going
-
+----------
 ## How the Context Window Works
 
 ## Every message becomes part of the conversation memory.
