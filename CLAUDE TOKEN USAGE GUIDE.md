@@ -28,7 +28,7 @@ The context window is the maximum number of tokens Claude can remember and proce
 |---|---|
 |Claude 3.5 Haiku | 200,000 tokens |
 |Claude 3.5 Sonnet | 200,000 tokens |
-|Claude 3 | Opus 200,000 token |
+|Claude 3 Opus |  200,000 token |
 | Claude 4 Sonnet | 200,000 tokens |
 | Claude 3.7 Sonnet | 200,000 tokens |
 
