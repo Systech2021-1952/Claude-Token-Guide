@@ -9,7 +9,7 @@ words—they are smaller pieces of text.
 ## Approximate Conversion
 
 | Content | Approximation |
------
+| -----   | ----- | 
 | 1 token | ~4 English characters |
 | 1 token | ~¾ of an English word
 | 100 tokens | ~75 words |
