@@ -117,16 +117,12 @@ If Claude stops mid-response, simply ask:
 
 You: 
 500 tokens
-
 Claude: 
 800 tokens
-
 You: 
 300 tokens
-
 Claude: 
 600 tokens
-
 
 Running Total = 2,200 tokens
 
