@@ -127,8 +127,7 @@ If Claude stops mid-response, simply ask:
 ----------
 ## How the Context Window Works
 
-### Every message becomes part of the conversation memory.
-
+### Every message becomes part of the conversation memory
 ### Example:
 
 You: 
