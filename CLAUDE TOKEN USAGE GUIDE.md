@@ -37,11 +37,8 @@ The context window is the maximum number of tokens Claude can remember and proce
 ## Approximately:
 
 - 500 pages of text
-
 - Hundreds of code files
-
 - Multiple PDFs
-
 - Long conversations
 
 ## What Counts Toward Token Usage?
