@@ -126,21 +126,19 @@ Claude:
 
 Running Total = 2,200 tokens
 
-As conversations become longer:
+As conversations become longer :
 - Previous messages remain in memory
 - Total token usage increases
 - Less room remains for future responses
 ----------
+
 ## What Happens When the Context Window Is Full?
 
 Once the context limit is reached:
 
 - Older conversation history is removed first
-
 - Earlier instructions may be forgotten
-
 - Responses can become less consistent
-
 - Large codebases and lengthy documents accelerate context exhaustion
 
 ## Recommended Solution
