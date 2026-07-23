@@ -131,18 +131,19 @@ If Claude stops mid-response, simply ask:
 
 ## Example:
 
-You: 500 tokens
+You: 
+500 tokens
 
-## Claude: 800 tokens
+Claude: 
+800 tokens
 
-## You: 300 tokens
+You: 
+300 tokens
 
-Claude: 600 tokens
-
-\--------------------------
-
+Claude: 
+600 tokens
+--------------------------
 Running Total:
-
 2,200 tokens
 
 
