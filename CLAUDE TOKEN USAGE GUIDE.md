@@ -77,10 +77,8 @@ These include everything Claude generates:
 - Lists
 
 - Generated text
-
-
 Both input and output tokens contribute to usage and billing.
-
+----------
 ## Image Token Cost
 
 Images use a fixed token cost rather than word-based tokenization.
