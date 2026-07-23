@@ -50,15 +50,10 @@ Claude charges for both input and output tokens.
 These include everything you send:
 
 - Your prompt
-
 - Previous conversation history
-
 - System prompts (API)
-
 - Attached documents
-
 - Pasted code
-
 - Images
 
 ## Output Tokens
