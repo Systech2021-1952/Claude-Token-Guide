@@ -79,8 +79,6 @@ These include everything Claude generates:
 - Generated text
 
 
-## CLAUDE TOKEN USAGE GUIDE
-
 Both input and output tokens contribute to usage and billing.
 
 ## Image Token Cost
