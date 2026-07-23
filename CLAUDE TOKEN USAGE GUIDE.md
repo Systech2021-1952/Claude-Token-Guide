@@ -143,8 +143,7 @@ Claude:
 600 tokens
 
 
-Running Total:
-2,200 tokens
+Running Total = 2,200 tokens
 
 
 ## CLAUDE TOKEN USAGE GUIDE
