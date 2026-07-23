@@ -129,7 +129,7 @@ If Claude stops mid-response, simply ask:
 
 ## Every message becomes part of the conversation memory.
 
-## Example:
+### Example:
 
 You: 
 500 tokens
