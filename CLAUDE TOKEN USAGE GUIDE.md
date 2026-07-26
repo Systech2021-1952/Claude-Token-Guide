@@ -170,14 +170,10 @@ Structured prompts require fewer tokens than long paragraphs and are easier for 
 
 ## 3. Specify Response Length
 
-## Examples:
-
+ Examples:
 - In 100 words
-
 - Maximum five bullet points
-
 - One paragraph
-
 - Short explanation
 
 This reduces unnecessary output tokens.
