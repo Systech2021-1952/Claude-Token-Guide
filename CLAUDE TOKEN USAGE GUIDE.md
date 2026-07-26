@@ -145,7 +145,7 @@ As conversations become longer :
 
 Start a new conversation whenever switching topics or after completing a major task.
 
-## Token Optimization Tips
+# Token Optimization Tips
 
 ## 1. Write Clear, Concise Prompts
 
