@@ -158,8 +158,6 @@ Can you please help me understand...
 Explain X in three bullet points.
 
 
-## CLAUDE TOKEN USAGE GUIDE
-
 ## 2. Use Bullet Points
 
 Structured prompts require fewer tokens than long paragraphs and are easier for Claude to interpret.
@@ -199,9 +197,6 @@ Old conversation history silently consumes context.
 Separate different projects into different conversations whenever possible.
 
 ## 6. Use System Prompts (API)
-
-
-## CLAUDE TOKEN USAGE GUIDE
 
 If you're using the API, place repeated instructions in the system prompt rather than repeating them in every request.
 
@@ -248,6 +243,7 @@ Approximate Tokens
 ~400–600
 
 ~1,200
+----------
 
 ## Token Counting Tools
 
