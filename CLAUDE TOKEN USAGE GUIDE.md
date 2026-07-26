@@ -210,39 +210,18 @@ Summarize this conversation in 200 words.
 
 Then begin a new conversation using only that summary.
 
-## Token Estimates
+Token Estimates   
 
-Content
+|Content | Approximate Tokens |
+|-----|-----|
+|Tweet (280 characters)  |  ~70 |
+|Instagram caption | ~100–150 |
+|800-word blog post  |   ~1,100 |
+| One A4 page  |    ~500 |
+|100 lines of code  |   ~700–1,000 |
+| One PDF page  |   ~400–600 |
+| This guide  |   ~1,200 |
 
-Tweet (280 characters)
-
-Instagram caption
-
-800-word blog post
-
-One A4 page
-
-100 lines of code
-
-One PDF page
-
-This guide
-
-Approximate Tokens
-
-~70
-
-~100–150
-
-~1,100
-
-~500
-
-~700–1,000
-
-~400–600
-
-~1,200
 ----------
 
 ## Token Counting Tools
