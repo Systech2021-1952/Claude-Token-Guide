@@ -247,10 +247,7 @@ Approximate Tokens
 
 ## Token Counting Tools
 
-Useful tools for measuring token usage:
-
-
-## CLAUDE TOKEN USAGE GUIDE
+### Useful tools for measuring token usage:
 
 - Anthropic Tokenizer — tokenize.anthropic.com
 
