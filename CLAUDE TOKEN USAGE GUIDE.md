@@ -78,10 +78,9 @@ Images use a fixed token cost rather than word-based tokenization.
 | Medium | ~1,000–1,500 |
 | Large (1000 × 1000 px or larger) | ~1,500–3,000 |
 
-Best Practice
+## Best Practice
 
-Resize large images before uploading whenever high resolution isn't required.
-
+- Resize large images before uploading whenever high resolution isn't required.
 ----------
 
 ## API Pricing (Approximate)
