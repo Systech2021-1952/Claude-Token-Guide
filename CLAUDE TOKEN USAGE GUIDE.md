@@ -164,11 +164,11 @@ Structured prompts require fewer tokens than long paragraphs and are easier for 
 
 ## Example:
 
-- \- Summarize this article
+- Summarize this article
 
-- \- Maximum 150 words
+- Maximum 150 words
 
-- \- Focus on key findings
+- Focus on key findings
 
 ## Task:
 
