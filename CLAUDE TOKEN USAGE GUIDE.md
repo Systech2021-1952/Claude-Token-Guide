@@ -162,8 +162,8 @@ Explain X in three bullet points.
 
 Structured prompts require fewer tokens than long paragraphs and are easier for Claude to interpret.
 
-## Example:
-## Task:
+ Example:
+ Task:
 - Summarize this article
 - Maximum 150 words
 - Focus on key findings
