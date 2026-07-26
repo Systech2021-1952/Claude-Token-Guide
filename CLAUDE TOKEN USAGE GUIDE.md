@@ -201,7 +201,7 @@ Example:
 > Summarize this conversation in 200 words.
 
 > Then begin a new conversation using only that summary.
-
+----------
 ## Token Estimates   
 
 |Content | Approximate Tokens |
