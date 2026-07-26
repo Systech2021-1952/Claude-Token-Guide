@@ -150,9 +150,11 @@ Once the context limit is reached:
 ## 1. Write Clear, Concise Prompts
 
 Instead of:
+
 Can you please help me understand...
 
 Write:
+
 Explain X in three bullet points.
 
 
