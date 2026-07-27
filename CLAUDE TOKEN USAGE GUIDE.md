@@ -41,6 +41,8 @@ The context window is the maximum number of tokens Claude can remember and proce
 - Multiple PDFs
 - Long conversations
 
+----------
+
 ## What Counts Toward Token Usage?
 
 Claude charges for both input and output tokens.
