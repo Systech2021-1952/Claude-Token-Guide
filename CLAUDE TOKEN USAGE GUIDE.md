@@ -151,6 +151,8 @@ If Claude stops mid-response, simply ask:
 
 Start a new conversation whenever switching topics or after completing a major task.
 
+----------
+
 # Token Optimization Tips
 
 ## 1. Write Clear, Concise Prompts
