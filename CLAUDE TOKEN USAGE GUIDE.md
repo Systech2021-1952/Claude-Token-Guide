@@ -132,7 +132,7 @@ If Claude stops mid-response, simply ask:
 
 > Running Total = 2,200 tokens
 
-As conversations become longer :
+### As conversations become longer :
 - Previous messages remain in memory
 - Total token usage increases
 - Less room remains for future responses
