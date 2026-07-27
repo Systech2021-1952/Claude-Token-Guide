@@ -45,7 +45,7 @@ The context window is the maximum number of tokens Claude can remember and proce
 
 Claude charges for both input and output tokens.
 
-Input Tokens :
+### Input Tokens :
 
 These include everything you send:
 
@@ -56,7 +56,7 @@ These include everything you send:
 - Pasted code
 - Images
 
-output Tokens :
+### output Tokens :
 
 These include everything Claude generates:
 
