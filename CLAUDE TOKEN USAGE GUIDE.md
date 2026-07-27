@@ -116,21 +116,17 @@ If Claude stops mid-response, simply ask:
 
 ## How the Context Window Works
 ### Every message becomes part of the conversation memory
+
 ### Example:
-
-You: 
-500 tokens
-
-Claude: 
-800 tokens
-
-You: 
-300 tokens
-
-Claude: 
-600 tokens
-
-Running Total = 2,200 tokens
+> You: 
+> 500 tokens
+> Claude: 
+> 800 tokens
+> You: 
+> 300 tokens
+> Claude: 
+> 600 tokens
+> Running Total = 2,200 tokens
 
 As conversations become longer :
 - Previous messages remain in memory
