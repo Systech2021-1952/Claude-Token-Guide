@@ -232,7 +232,7 @@ Example:
 
 - Anthropic Tokenizer — tokenize.anthropic.com
 
-- Anthropic API — Returns usage.input_tokens and usage.output_tokens
+- Anthropic API — Returns `usage.input_tokens` and `usage.output_tokens`
 
 - Claude.ai — Token usage available in conversation details and settings
 
