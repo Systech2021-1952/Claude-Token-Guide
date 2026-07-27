@@ -65,6 +65,7 @@ These include everything Claude generates:
 - Tables
 - Lists
 - Generated text
+
 Both input and output tokens contribute to usage and billing.
 
 ----------
