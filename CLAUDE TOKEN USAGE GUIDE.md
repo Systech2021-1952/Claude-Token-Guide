@@ -1,4 +1,4 @@
-                      ## CLAUDE TOKEN USAGE GUIDE
+# CLAUDE TOKEN USAGE GUIDE
 
 ## What Is a Token?
 
