@@ -260,4 +260,5 @@ Every message written on the board takes up space. As more information is added,
 
 The more focused and concise your conversation is, the more effectively Claude can use its available context.
 
-## Completed
+
+# Completed
