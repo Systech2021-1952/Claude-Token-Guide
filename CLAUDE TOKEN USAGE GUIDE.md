@@ -56,7 +56,7 @@ These include everything you send:
 - Pasted code
 - Images
 
-### output Tokens :
+### Output Tokens :
 
 These include everything Claude generates:
 
