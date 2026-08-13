@@ -259,3 +259,5 @@ Think of Claude's context window as a whiteboard.
 Every message written on the board takes up space. As more information is added, the board gradually fills up. Once it's full, Claude begins erasing the oldest content to make room for new information.
 
 The more focused and concise your conversation is, the more effectively Claude can use its available context.
+
+## Completed
