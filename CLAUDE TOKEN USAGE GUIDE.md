@@ -2,9 +2,7 @@
 
 ## What Is a Token?
 
-A token is the basic unit of text processed by AI models. Tokens are not the same as
-
-words-they are smaller pieces of text.
+A token is the basic unit of text processed by AI models. Tokens are not the same as words-they are smaller pieces of text.
 
 ## Approximate Conversion
 
